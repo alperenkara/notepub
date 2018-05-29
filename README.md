@@ -1,2 +1,2 @@
-# notepub
-personal notebook
+# note
+PersonalNotebook
